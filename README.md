@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanishk
-- 👀 I’m interested in ...Web Developmetn , Software Development , Ethical Hacking.
-- 🌱 I’m currently learning ... Java Spring Framework
-- 💞️ I’m looking to collaborate on ... Web Development 
+- 👀 I’m interested in ...Development, Ethical Hacking, Competative Programming, DSA.
+- 🌱 I’m currently learning ... DSA
+- 💞️ I’m looking to collaborate on ... Any Project.
 - 📫 How to reach me ... email me at - kanishkkashyap840@gmail.com
 
 <!---
