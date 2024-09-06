@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkcs" alt="kanishkcs" /></a> </p>
 
-- 🔭 I’m currently working on [Dots and Boxes](https://github.com/kanishkcs/no-name)
+- 🔭 I’m currently working as SDE-1 at EternaLight Pvt Ltd.
 
 - 🌱 I’m currently learning **D3.js**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React , Node , Js**
 
-- 📫 How to reach me **kkanishkcs@gmail.com**
+- 📫 How to reach me **kkanishkcse@gmail.com**
 
 - ⚡ Fun fact **I fix Bugs while i sleep**
 
