@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working as SDE-1 at EternaLight Pvt Ltd.
 
-- 🌱 I’m currently learning **D3.js**
 
 - 👯 I’m looking to collaborate on [Any Project](https://github.com/kanishkcs)
 
